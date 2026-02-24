@@ -10,8 +10,8 @@
 # Resources needed
 ### -Python
 ### -Pandas and Numpy libraries
-### Jupyter Notebook
-### Old Mix Design model for verification
+### -Jupyter Notebook
+### -Old Mix Design model for verification
 
 # How to Use
 ### 1.Make Sure all Coding Resources are installed into the Enviroment
